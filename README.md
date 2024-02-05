@@ -1,2 +1,3 @@
-# Easton is Gay
-Easton is GayEaston is GayEaston is GayEaston is GayEaston is GayEaston is GayEaston is GayEaston is GayEaston is Gay Easton is Gay Easton is Gay Easton is Gay Easton is Gay Easton is Gay Easton is Gay Easton is Gay Easton is Gay Easton is Gay Easton is Gay Easton is Gay Easton is Gay Easton is Gay Easton is GayEaston is Gay
+# Bodi's first actual Unity Project?
+
+I have made a few, but this one is the first one im commiting towards
